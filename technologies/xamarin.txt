@@ -1,0 +1,1 @@
+Xamarin’s Mono-based products enable .NET developers to use their existing code, libraries and tools (including Visual Studio*), as well as skills in .NET and the C# programming language, to create mobile applications for the industry’s most widely-used mobile devices, including Android-based smartphones and tablets, iPhone, iPad and iPod Touch.

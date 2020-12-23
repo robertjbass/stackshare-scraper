@@ -1,0 +1,1 @@
+Prisma is an open-source database toolkit. It replaces traditional ORMs and makes database access easy with an auto-generated query builder for TypeScript &amp; Node.js.

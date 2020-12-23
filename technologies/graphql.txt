@@ -1,0 +1,1 @@
+GraphQL is a data query language and runtime designed and used at Facebook to request and deliver data to mobile and web apps since 2012.

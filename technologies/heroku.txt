@@ -1,0 +1,1 @@
+Heroku is a cloud application platform – a new way of building and deploying web apps. Heroku lets app developers spend 100% of their time on their application code, not managing servers, deployment, ongoing operations, or scaling.

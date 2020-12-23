@@ -1,0 +1,1 @@
+npm is the command-line interface to the npm ecosystem. It is battle-tested, surprisingly flexible, and used by hundreds of thousands of JavaScript developers every day.

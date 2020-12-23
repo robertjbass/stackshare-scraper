@@ -1,0 +1,1 @@
+Groovy builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk. It makes modern programming features available to Java developers with almost-zero learning curve.
